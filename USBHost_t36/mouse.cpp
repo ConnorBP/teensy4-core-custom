@@ -99,7 +99,7 @@ void MouseController::hid_input_end()
 
 void MouseController::mouseDataClear() {
 	mouseEvent = false;
-	buttons = 0;
+	// buttons = 0; // disabled to stop flicker if we read state before it is refreshed.
 	mouseX  = 0;
 	mouseY  = 0;
 	wheel   = 0;

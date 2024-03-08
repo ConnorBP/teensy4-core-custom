@@ -240,7 +240,7 @@ let me know?  http://forum.pjrc.com/forums/4-Suggestions-amp-Bug-Reports
 #elif defined(USB_HID)
   #define VENDOR_ID		0x16C0
   #define PRODUCT_ID		0x0482
-  #define MANUFACTURER_NAME	{'T','e','e','n','s','y','d','u','i','n','o'}
+  #define MANUFACTURER_NAME	{'C','o','n','t','r','o','d','u','i','n','o'}
   #define MANUFACTURER_NAME_LEN	11
   #define PRODUCT_NAME		{'K','e','y','b','o','a','r','d','/','M','o','u','s','e','/','J','o','y','s','t','i','c','k'}
   #define PRODUCT_NAME_LEN	23
@@ -283,7 +283,7 @@ let me know?  http://forum.pjrc.com/forums/4-Suggestions-amp-Bug-Reports
   #define DEVICE_CLASS		0xEF
   #define DEVICE_SUBCLASS	0x02
   #define DEVICE_PROTOCOL	0x01
-  #define MANUFACTURER_NAME	{'T','e','e','n','s','y','d','u','i','n','o'}
+  #define MANUFACTURER_NAME	{'S','e','r','i','a','l','d','u','i','n','o'}
   #define MANUFACTURER_NAME_LEN	11
   #define PRODUCT_NAME		{'S','e','r','i','a','l','/','K','e','y','b','o','a','r','d','/','M','o','u','s','e','/','J','o','y','s','t','i','c','k'}
   #define PRODUCT_NAME_LEN	30
